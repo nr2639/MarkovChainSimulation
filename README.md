@@ -51,6 +51,6 @@ Simulate the following distribution:
 f(x,y) = 1/2 : -1 < x < 0  & -1 < y < 0
        = 1/2 :  0 < x < 1 & 0 < y < 1
 
-# British Coal mining disaster modelling  Part D:
-
-
+# Pricing Heston using various discretization schemes Part D:
+Simulate stock pricing using heston model and princing a call option. 
+Used Euler, Milstein and Runge-Kutta to simulate the model.
