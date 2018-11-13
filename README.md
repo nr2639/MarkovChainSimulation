@@ -44,3 +44,13 @@ makes no subsequent payments. For each of strategies S2 and S3, use Monte Carlo 
 double his initial wealth ($20,000) before reaching half of his/her initial wealth ($5,000). Give
 standard errors of your estimates. Explain how you are handling paths that neither double
 nor halve by the end of the simulation time horizon.
+
+
+# Hamiltonian Monte Carlo (HMC) Part C:
+Simulate the following distribution:
+f(x,y) = 1/2 : -1 < x < 0  & -1 < y < 0
+       = 1/2 :  0 < x < 1 & 0 < y < 1
+
+# British Coal mining disaster modelling  Part D:
+
+
