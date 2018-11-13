@@ -54,3 +54,10 @@ f(x,y) = 1/2 : -1 < x < 0  & -1 < y < 0
 # Pricing Heston using various discretization schemes Part D:
 Simulate stock pricing using heston model and princing a call option. 
 Used Euler, Milstein and Runge-Kutta to simulate the model.
+
+# Calculating Greeks via Simulation Part E
+Calculation of Greeks for following type of options:
+(a) Digital Call, (b) Up-and-
+Out Call, (c) Average Option Call
+spot price of S0 = 100, strike price of K = $115, risk-free rate
+r = 0:04, continuous divided rate of q = 0:015, volatility of sigma = 0:28 for all options, maturity of T = 1 year for all options , barrier of H = 130 for up-and-out call, m = 12 monitoring times for average option.
