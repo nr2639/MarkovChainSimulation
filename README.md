@@ -1,4 +1,4 @@
-# Simulation Codes
+# Simulation Codes : Markov Chain, GBM for retirement portfolio, HMC, Discretization Schemes, Greeks via Simulation
 
 ## Markov chain Part A : 
 Consider a Continuous-Time Markov Chain with finite states S = {0,1,2,...N) and some given transition matrix. Assuming the waiting time, 
